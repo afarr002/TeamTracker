@@ -10,7 +10,6 @@ We've all been there, too much to do with too little time. Now, when the chaos o
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Link to Deployed](#link)
