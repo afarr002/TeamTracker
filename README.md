@@ -18,8 +18,10 @@ We've all been there, too much to do with too little time. Now, when the chaos o
 ## Usage
 
 Press the get started button and you will be taken to the page where you can input your todo's. If you would like, you can return to the homepage by clicking the Todo Tracker headline in the navbar.
+<img width="1260" alt="todo tracker page 1" src="https://user-images.githubusercontent.com/88466341/145316674-b84c3487-139e-433d-8ed2-cc4545842dd6.png">
 
 Once you have entered text into your Todo Title and Todo Text fields, hit the Save inon in the navbar to save your todos.
+<img width="1260" alt="todo tracker page 2" src="https://user-images.githubusercontent.com/88466341/145316732-6e7abb12-e2cf-4cf3-8495-da9d2e349b7e.png">
 
 ## License
 
