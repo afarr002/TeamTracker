@@ -16,13 +16,9 @@ We've all been there, too much to do with too little time. Now, when the chaos o
 - [Link to Deployed](#link)
 - [Questions?](#questions)
 
-## Installation
-
-```
-Once you press the get started button you will be taken to the page where you can input your todo's. If yopu would like, you can return to the homepage by clicking the Todo Tracker headline in the navbar.
-```
-
 ## Usage
+
+Press the get started button and you will be taken to the page where you can input your todo's. If you would like, you can return to the homepage by clicking the Todo Tracker headline in the navbar.
 
 Once you have entered text into your Todo Title and Todo Text fields, hit the Save inon in the navbar to save your todos.
 
